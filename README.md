@@ -1,2 +1,2 @@
 # TranslucentSystemBarDemo
-![main](/app/src/main/res/mipmap-xxxhdpimain.jpg)
+![main](~/app/src/main/res/mipmap-xxxhdpimain.jpg)
