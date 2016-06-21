@@ -1,2 +1,2 @@
 # TranslucentSystemBarDemo
-![main](https://github.com/pangxinlong/TranslucentSystemBarDemo/app/src/main/res/mipmap-xxxhdpimain.jpg)
+![main](https://github.com/pangxinlong/TranslucentSystemBarDemo/app/src/main/res/mipmap-xxxhdpi/main.jpg)
