@@ -1,5 +1,5 @@
 # TranslucentSystemBarDemo
-## 一个设置手机通知栏样式的小demo
+### 一个设置手机通知栏样式的小demo
 
 ### MainActivity样式
 ![main](https://github.com/pangxinlong/TranslucentSystemBarDemo/blob/master/image/main.jpg)
@@ -21,4 +21,4 @@
 #### 纯色的样式(color test)
 ![color5.0](https://github.com/pangxinlong/TranslucentSystemBarDemo/blob/master/image/color_4_4.jpg)
 
-#注：android4.4时通知栏使用纯色使会有一些bug，所以纯色时要使用自己布局的title
+##注：android4.4时通知栏使用纯色使会有一些bug，所以纯色时要使用自己布局的title
