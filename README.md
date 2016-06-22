@@ -20,3 +20,5 @@
 
 #### 纯色的样式(color test)
 ![color5.0](https://github.com/pangxinlong/TranslucentSystemBarDemo/blob/master/image/color_4_4.jpg)
+
+#注：android4.4时用通知栏使用纯色使会有一些bug，所以纯色使用自己布局的title
