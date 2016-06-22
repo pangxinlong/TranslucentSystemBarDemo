@@ -1,4 +1,5 @@
 # TranslucentSystemBarDemo
+## 一个设置手机通知栏样式的小demo
 
 ### MainActivity样式
 ![main](https://github.com/pangxinlong/TranslucentSystemBarDemo/blob/master/image/main.jpg)
